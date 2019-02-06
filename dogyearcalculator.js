@@ -1,7 +1,7 @@
 var myAge = 23;
-//age of user
+//age of user - input your age here. You don't need to do anything else!
 let earlyYears = 2;
-//this value will change
+//this value will change due to the calculation 
 
 earlyYears *= 10.5;
 
